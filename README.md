@@ -1,12 +1,86 @@
-<h1 align="center">Hi 👋, I'm Vikas Pathak</h1>
-<h3 align="center">A Coding enthusiast, trying to Figure-Out Stuff</h3>
+<h1 align="center">Hey 👋, I'm Vikas Pathak</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 Coding Enthusiast | 🌱 Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaass-08&label=Profile%20views&color=0e75b6&style=flat" alt="vikaass-08" /> </p>
+<p align="center">
+  <a href="https://vpcreation.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:pathakvikas190@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vikaass-08&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-- 👨‍💻 All of my projects are available at [https://vpcreation.netlify.app/](https://vpcreation.netlify.app/)
+---
 
-- 📫 How to reach me **pathakvikas190@gmail.com**
+# 💫 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaass-08&show_icons=true&locale=en&layout=compact" alt="vikaass-08" /></p>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikaass-08&show_icons=true&locale=en" alt="vikaass-08" /></p>
+- 🔭 Currently building modern web projects  
+- 🌱 Learning and exploring new technologies  
+- 💡 Passionate about Web Development & Problem Solving  
+- ⚡ Love experimenting with new tools and frameworks  
+- 🎯 Goal: Become a better developer every day  
+- 🧠 Always curious and ready to learn  
+
+---
+
+# 🌐 Portfolio
+
+### 🚀 Explore My Work
+🔗 **Website:** [vpcreation.netlify.app](https://vpcreation.netlify.app/)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:pathakvikas190@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/vikaass-08">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com/in/vikaass08">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🚀 Languages & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+## ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+</p>
+
+## 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaass-08&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# ⚡ Developer Mode
+
+```txt
+🟢 Status: Online
+💻 Currently Coding...
+☕ Powered by Coffee
+🐛 Fixing bugs one at a time
+🚀 Building cool stuff
