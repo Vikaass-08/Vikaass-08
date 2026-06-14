@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=vikaass-08&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 
 # 💫 About Me
 
@@ -24,30 +23,6 @@
 - 🎯 Goal: Become a better developer every day  
 - 🧠 Always curious and ready to learn  
 
----
-
-# 🌐 Portfolio
-
-### 🚀 Explore My Work
-🔗 **Website:** [vpcreation.netlify.app](https://vpcreation.netlify.app/)
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-<a href="mailto:pathakvikas190@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://github.com/vikaass-08">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://www.linkedin.com/in/vikaass08">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-</p>
-
----
 
 # ⚡ Developer Mode
 
