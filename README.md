@@ -49,33 +49,6 @@
 
 ---
 
-# 🛠️ Tech Stack
-
-## 🚀 Languages & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-## ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
-</p>
-
-## 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaass-08&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 # ⚡ Developer Mode
 
 ```txt
