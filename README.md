@@ -23,6 +23,7 @@
 - 🎯 Goal: Become a better developer every day  
 - 🧠 Always curious and ready to learn  
 
+<br>
 
 # ⚡ Developer Mode
 
